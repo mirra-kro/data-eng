@@ -17,9 +17,7 @@ Syllabus
 * [Week 2: Data ingestion](#week-2-data-ingestion)
 * [Week 3: Data Warehouse](#week-3-data-warehouse)
 * [Week 4: Analytics Engineering](#week-4-analytics-engineering)
-* [Week 5: Batch processing](#week-5-batch-processing)
-* [Week 6: Streaming](#week-6-streaming)
-* [Week 7, 8 & 9: Project](#week-7-8--9-project)
+
 
 ## Taking the course
 
